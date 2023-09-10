@@ -1,4 +1,11 @@
 pandas
 numpy
 seaborn
--e .
+matplotlib
+scikit-learn
+catboost
+xgboost
+#-e .
+
+#  pip install -r requirements.txt
+# after adding new library name into requirements.txt make sure to SAVE.
