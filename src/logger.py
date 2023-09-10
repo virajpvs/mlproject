@@ -30,4 +30,4 @@ if __name__ == "__main__":
     # logging.critical("This is a critical message")
 
 
-# python scr/logger.py
+# python src/logger.py
