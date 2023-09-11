@@ -28,4 +28,4 @@ if __name__ == "__main__":
         raise CustomException(e, sys)
 
     
-# python scr/exception.py
+# python src/exception.py
